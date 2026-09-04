@@ -1,18 +1,58 @@
-# 💫 About Me:
-Arvind Singh Rawat<br>Bridge & Structural Design Engineer<br><br>Structural engineer with 8+ years of experience in RCC, PSC and steel bridge design. Passionate about combining structural engineering, design codes and software development to create practical, transparent and reliable engineering tools.<br><br>arvindrawat400@gmail.com<br>linkedin.com/in/arvindrawat400
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3AEEFF00%2C100%3Aa82DA&height=200&section=header&text=Arvind%20Singh%20Rawat&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+<h1 align="center">Hi there, I'm Arvind Singh Rawat! 👋</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Bridge+%26+Structural+Design+Engineer%3B8%2B+Years+in+RCC%2C+PSC%2C+Steel+Bridges%3BBuilding+Transparent+Engineering+Tools%3BCode+%2B+Calculations" alt="Typing SVG" />
+</div>
+
+<br/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6thsuspect) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvindrawat400) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvindrawat400@gmail.com) 
+<h2 align="center">About Me 🚀</h2>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=6thsuspect&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=6thsuspect&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=6thsuspect&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">I'm a structural engineer with 8+ years of experience in RCC, PSC, and steel bridge design. Passionate about combining structural engineering, design codes, and software development to create practical, transparent, and reliable engineering tools. I believe the future of our field lies in code-driven, auditable solutions.</p>
 
----
-[![](https://komarev.com/ghpvc/?username=6thsuspect&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">Tech Stack 💻</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,docker,git,vscode,github,markdown&perline=10&theme=dark" />
+</div>
+
+<!-- Additional Structural Engineering Tools (using badges) -->
+<div align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/AutoCAD-0d1117?style=for-the-badge&logo=autodesk&logoColor=39FF14" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/STAAD.Pro-0d1117?style=for-the-badge&logo=bentley&logoColor=39FF14" alt="STAAD Pro" />
+  <img src="https://img.shields.io/badge/MIDAS_Civil-0d1117?style=for-the-badge&logo=midas&logoColor=39FF14" alt="MIDAS Civil" />
+  <img src="https://img.shields.io/badge/ETABS-0d1117?style=for-the-badge&logo=csiamerica&logoColor=39FF14" alt="ETABS" />
+  <img src="https://img.shields.io/badge/Tekla_Structures-0d1117?style=for-the-badge&logo=trimble&logoColor=39FF14" alt="Tekla" />
+</div>
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=6thsuspect&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=6thsuspect&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=6thsuspect&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<h2 align="center">Connect with Me 🤝</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/arvindrawat400"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/6thsuspect"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:arvindrawat400@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=6thsuspect&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3AEEFF00%2C100%3Aa82DA&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" />
+</div>
