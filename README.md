@@ -1,32 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05080f,40:0b1320,75:0f3d2e,100:39ff14&text=ARVIND%20SINGH%20RAWAT&fontColor=ffffff&fontSize=44&fontAlignY=37&desc=Bridge%20%26%20Structural%20Design%20Engineer%20%7C%20Code-Driven%20Engineering%20Tools%20%7C%20Open%20Source%20Advocate&descAlignY=58" alt="Header banner" />
-</div>
+# 💫 About Me:
+Arvind Singh Rawat<br>Bridge & Structural Design Engineer<br><br>Structural engineer with 8+ years of experience in RCC, PSC and steel bridge design. Passionate about combining structural engineering, design codes and software development to create practical, transparent and reliable engineering tools.<br><br>arvindrawat400@gmail.com<br>linkedin.com/in/arvindrawat400
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=980&lines=SYSTEM+BOOT%3A+ONLINE;8%2B+years+in+RCC%2C+PSC+and+Steel+Bridge+Design;Passionate+about+combining+structural+engineering+with+software+development;Building+transparent%2C+reliable+engineering+tools;From+design+codes+to+clean+code" alt="Typing intro" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/6thsuspect">
-    <img src="https://img.shields.io/badge/GitHub-6thsuspect-0d1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/arvindrawat400/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arvind%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arvindrawat400@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6thsuspect) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvindrawat400) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvindrawat400@gmail.com) 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=6thsuspect&style=flat-square&color=39ff14&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/6thsuspect?style=flat-square&color=39ff14&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/MODE-Structural%20Engineer%20%2F%20Developer-0d1117?style=flat-square&logo=buffer&logoColor=39FF14" alt="Mode badge" />
-  <img src="https://img.shields.io/badge/FOCUS-Bridge%20Design%20Automation-0d1117?style=flat-square&logo=dependabot&logoColor=39FF14" alt="Focus badge" />
-</div>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=6thsuspect&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=6thsuspect&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=6thsuspect&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-```text
-[SYS] STATUS      :: ONLINE
-[ROLE] MODE       :: STRUCTURAL ENGINEER / DEVELOPER
-[PRIMARY SIGNAL]  :: RCC, PSC, Steel Bridge Design + Engineering Software Development
-[WORK STYLE]      :: Practical, transparent, code-driven, and standards-compliant
+---
+[![](https://komarev.com/ghpvc/?username=6thsuspect&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
